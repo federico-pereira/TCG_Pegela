@@ -97,8 +97,8 @@ Next.js (Vercel Edge)
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/<org>/<repo>.git
-cd <repo>
+git clone https://github.com/federico-pereira/TCG_Pegela.git
+cd <TCG_Pegela>
 
 # Instalar dependencias
 npm install
